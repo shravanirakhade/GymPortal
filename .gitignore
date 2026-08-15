@@ -1,0 +1,13 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+
+# Database configuration
+src/main/resources/db.properties
+
+# Logs
+*.log
