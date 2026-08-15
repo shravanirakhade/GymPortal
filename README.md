@@ -172,6 +172,23 @@ The project can be further enhanced by adding:
 - Password encryption and improved authentication
 - REST API integration
 
+## 📸 Project Screenshots
+
+### 🔐 Login Page
+![Login Page](login.png.png)
+
+### 🏠 User Dashboard
+![Dashboard](dashboard.png.png)
+
+### 📝 Register Membership
+![Register Membership](register-membership.png.png)
+
+### 💳 My Membership
+![My Membership](my-membership.png.png)
+
+### 💰 Fee Structure
+![Fee Structure](fee-structure.png.png)
+
 ## 👩‍💻 Project
 
 **Project Name:** Universal Fitness – Gym Management System
